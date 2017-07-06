@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Mapa Abonados CCC</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+
+	<!-- de esta forma se lanza una funcion en especial: se usa callback -->
+	<!--<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfbHHKvjLoffqKsVN11BZXDzU-lTxBWtA&callback=iniciarMapa"></script>-->
+
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfbHHKvjLoffqKsVN11BZXDzU-lTxBWtA"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+   	<script type="text/javascript" src="js/mapa_abonados_google_maps.js"></script>
+
+   <!--<script src="http://code.jquery.com/jquery-migrate-1.1.1.min.js"></script>-->
+	</head>
+	<body>
+		<div id="panel-flotante">
+			<!-- <input onclick="clearMarkers();" type=button value="Hide Markers">
+			<input onclick="setMarkersArchivoJSON();" type=button value="Set Markers">
+			<input onclick="showMarkers();" type=button value="Show All Markers">-->
+			<input onclick="deleteMarkers();" type=button value="Limpiar">
+			<input onclick="setMarkersJSON();" type=button value="Mostrar">
+		</div>
+		<div id="mapa"></div>
+	</body>
+</html>

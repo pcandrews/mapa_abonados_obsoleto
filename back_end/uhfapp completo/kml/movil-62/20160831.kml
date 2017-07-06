@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>197387</name>
+	<description>country terrazas park</description>
+	<Point>
+		<coordinates>-65.29243,-26.799095,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>181568</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.291297,-26.815926,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231356</name>
+	<description>ampliación barrio gente de prensa; ernesto colombres 3100 paralela a calle gral paz 3100 al norte.</description>
+	<Point>
+		<coordinates>-65.247019,-26.827018,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167912</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.219998,-26.826928,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231757</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.17833,-26.80165,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231345</name>
+	<description>country loma linda tafi viejo</description>
+	<Point>
+		<coordinates>-65.251798,-26.710754,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

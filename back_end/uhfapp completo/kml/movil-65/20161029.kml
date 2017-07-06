@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>199321</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.135757,-26.824818,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231156</name>
+	<description>Pasillo antes de cruzar el canal</description>
+	<Point>
+		<coordinates>-65.145861,-26.816998,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185815</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.138461,-26.816752,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

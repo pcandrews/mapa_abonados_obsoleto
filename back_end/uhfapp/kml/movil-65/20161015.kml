@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>230219</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.253533,-26.799415,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>187306</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.254216,-26.789474,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230392</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.244126,-26.789757,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194931</name>
+	<Point>
+		<coordinates>-65.244125,-26.789757,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231484</name>
+	<Point>
+		<coordinates>-65.240615,-26.787132,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230395</name>
+	<description>Pasaje altura Emilio Castelar 2950</description>
+	<Point>
+		<coordinates>-65.234098,-26.789677,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192485</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.2339,-26.786787,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230195</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.224752,-26.801674,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198716</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.223817,-26.801888,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197341</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.224798,-26.80986,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199113</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.204232,-26.792563,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230214</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.18507,-26.808791,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>184864</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.185226,-26.806532,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>183048</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.180207,-26.797212,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199458</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.180604,-26.795878,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>186638</name>
+	<Point>
+		<coordinates>-65.176522,-26.7993,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231571</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.170795,-26.78757,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192434</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.229236,-26.692889,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191701</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.19882,-26.770856,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>112233</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.20833,-26.835475,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>032125</name>
+	<description>cebo; ; </description>
+	<Point>
+		<coordinates>-65.20831135,-26.8354467,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

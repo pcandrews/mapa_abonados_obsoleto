@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Document.kml</name>
+<open>1</open>
+<Style id="exampleStyleDocument">
+<LabelStyle>
+<color>ff0000cc</color>
+</LabelStyle>
+</Style>
+<Placemark>
+	<name>194252</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.574293,-27.300882,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>187945</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.551906,-27.270376,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>177473</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.509778,-27.181701,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166963</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.359317,-27.266063,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163792</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.360303,-27.26535,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185178</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.506408,-27.233087,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173366</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.523468,-27.214945,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173269</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.527173,-27.216881,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169836</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.543923,-27.252921,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167154</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.543556,-27.251262,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198135</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.542147,-27.24764,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169493</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.546653,-27.250199,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>172011</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.55667,-27.263813,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230644</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.553734,-27.266464,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190298</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.55592,-27.269003,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233562</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.252154,-26.86892,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232474</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.338938,-26.906053,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199491</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.347192,-27.026611,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231737</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.347927,-27.025758,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196017</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.412494,-27.045901,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192117</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.405208,-27.061676,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198170</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.33683,-27.148081,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232235</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.556854,-27.092159,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191799</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.559744,-27.268909,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199701</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.560612,-27.277042,0</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

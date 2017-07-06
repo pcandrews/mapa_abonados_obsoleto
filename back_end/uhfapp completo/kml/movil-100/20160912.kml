@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>173092</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.507217,-27.269934,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>183209</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.514067,-27.25963,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174701</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.531778,-27.263381,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>172662</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.546176,-27.261542,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198343</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.545339,-27.252226,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178237</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.541849,-27.2433,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194108</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.541617,-27.246525,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>171738</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.546455,-27.247949,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169563</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.547836,-27.25026,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189702</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.546462,-27.255051,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193788</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.555869,-27.254338,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185942</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.56,-27.271969,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>172840</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.55656,-27.273135,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193920</name>
+	<description>us reiscripto numero 198234. debajo de linea de alta tensión</description>
+	<Point>
+		<coordinates>-65.548698,-27.274376,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

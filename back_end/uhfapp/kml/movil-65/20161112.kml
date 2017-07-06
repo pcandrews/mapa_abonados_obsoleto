@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>231900</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.134317,-26.816574,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198960</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.134962,-26.81683,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231662</name>
+	<Point>
+		<coordinates>-65.09957,-26.843202,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230139</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.098108,-26.843418,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>186009</name>
+	<Point>
+		<coordinates>-65.094013,-26.847429,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231671</name>
+	<Point>
+		<coordinates>-65.093435,-26.844094,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231506</name>
+	<description>Finca La Torcaza</description>
+	<Point>
+		<coordinates>-65.173638,-26.872283,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>179324</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.147053,-26.901444,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178986</name>
+	<Point>
+		<coordinates>-65.13259,-26.875537,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195681</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.127252,-26.851621,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169032</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.131885,-26.849891,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193689</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.132868,-26.849792,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174671</name>
+	<Point>
+		<coordinates>-65.133875,-26.8496,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190180</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.127696,-26.85161,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195644</name>
+	<Point>
+		<coordinates>-64.989075,-26.889662,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193668</name>
+	<description></description>
+	<Point>
+		<coordinates>-64.988203,-26.835018,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>182929</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.172221,-26.85629,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197966</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.171087,-26.854539,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230424</name>
+	<Point>
+		<coordinates>-64.743902,-26.882926,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

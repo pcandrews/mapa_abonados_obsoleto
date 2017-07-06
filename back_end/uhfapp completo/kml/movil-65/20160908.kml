@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>199834</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.247548,-26.714607,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180394</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.235954,-26.767128,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164651</name>
+	<description>Sector ubicado en Av. J Manuel Raya al 1000-</description>
+	<Point>
+		<coordinates>-65.234623,-26.781228,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

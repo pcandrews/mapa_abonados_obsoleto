@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>509261</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.324719,-26.926658,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>508748</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.324919,-26.927053,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231618</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.332868,-26.927856,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>509269</name>
+	<description>al lado d la municipalidad d san Isidro d lules</description>
+	<Point>
+		<coordinates>-65.337976,-26.924149,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>509275</name>
+	<description>calle 25 d mayo</description>
+	<Point>
+		<coordinates>-65.337984,-26.917218,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>509277</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.3348,-26.918958,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>509276</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.338893,-26.925372,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>509249</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.338078,-26.926561,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>509250</name>
+	<description>propia esquina</description>
+	<Point>
+		<coordinates>-65.336755,-26.92978,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>509274</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.345052,-26.927364,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

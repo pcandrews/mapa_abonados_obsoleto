@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>171766</name>
+	<description>frente a la estación pasando la vía taller mecanico</description>
+	<Point>
+		<coordinates>-65.275061,-27.509051,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230939</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.624798,-27.417479,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>168654</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.610603,-27.346829,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166621</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.599121,-27.360445,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>179178</name>
+	<description>por la calle de la policía al costado de la vía casi al final pasando barrio san cayetano</description>
+	<Point>
+		<coordinates>-65.578752,-27.312087,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>188448</name>
+	<description>tercer cuadra. 3° casa rejas con columnas de ladrillo a la vista</description>
+	<Point>
+		<coordinates>-65.575146,-27.351405,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173066</name>
+	<description>ultima entrada tercera casa</description>
+	<Point>
+		<coordinates>-65.578719,-27.360915,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230555</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.588048,-27.340377,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163708</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.591355,-27.352172,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

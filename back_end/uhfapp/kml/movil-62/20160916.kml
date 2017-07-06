@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>173168</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.286673,-26.823702,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166583</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.300682,-26.806774,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230004</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.255488,-26.793532,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>184332</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.248279,-26.796791,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165440</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.228094,-26.789792,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>186225</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.17054,-26.817487,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>186632</name>
+	<description>valle de San Javier. ; ; las salas</description>
+	<Point>
+		<coordinates>-65.387867,-26.742745,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189629</name>
+	<description>entrada por parque guillermina</description>
+	<Point>
+		<coordinates>-65.25986696,-26.82943955,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

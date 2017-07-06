@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>112233</name>
+	<description>móvil 98</description>
+	<Point>
+		<coordinates>-65.20808088,-26.83559334,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

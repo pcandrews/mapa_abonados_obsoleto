@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>231855</name>
+	<Point>
+		<coordinates>-65.196879,-26.896234,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190971</name>
+	<description>frente al galpón del súper</description>
+	<Point>
+		<coordinates>-65.192419,-26.895105,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193342</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.194231,-27.027433,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230464</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.261833,-27.139722,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165530</name>
+	<description>farmacia Miguel</description>
+	<Point>
+		<coordinates>-65.092367,-26.816426,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

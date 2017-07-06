@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Document.kml</name>
+<open>1</open>
+<Style id="exampleStyleDocument">
+<LabelStyle>
+<color>ff0000cc</color>
+</LabelStyle>
+</Style>
+<Placemark>
+	<name>169367</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.222802,-26.859518,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>235216</name>
+	<description>machimbrada arriba</description>
+	<Point>
+		<coordinates>-65.246895,-26.836349,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>235041</name>
+	<description>par de una galería hecha en la vereda. puerta negra de chapa. pasillo</description>
+	<Point>
+		<coordinates>-65.180683,-26.845048,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232655</name>
+	<description>casa color gris</description>
+	<Point>
+		<coordinates>-65.191513,-26.844122,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>234558</name>
+	<description>casa sin pintar. puerta negra</description>
+	<Point>
+		<coordinates>-65.190713,-26.852731,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>235215</name>
+	<description>pasillo</description>
+	<Point>
+		<coordinates>-65.209415,-26.867269,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>235206</name>
+	<description>frente plaza Bourges</description>
+	<Point>
+		<coordinates>-65.238846,-26.867591,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185355</name>
+	<description>frente la av.</description>
+	<Point>
+		<coordinates>-65.236746,-26.864107,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>235231</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.204377,-26.87004,0</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

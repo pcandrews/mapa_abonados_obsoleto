@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>167138</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.605462,-27.348377,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167773</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.514528,-27.415307,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173227</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.521122,-27.418555,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193078</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.522083,-27.419285,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167184</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.578613,-27.361321,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232010</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.57415,-27.348019,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167171</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.591051,-27.354359,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>172421</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.629844,-27.430203,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232091</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.613644,-27.398875,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232262</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.612029,-27.350994,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232071</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.654958,-27.335892,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232289</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.617906,-27.341095,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169219</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.59309424,-27.34510493,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

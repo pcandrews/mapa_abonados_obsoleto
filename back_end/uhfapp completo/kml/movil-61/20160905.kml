@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>196624</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.179117,-26.873363,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230449</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.169992,-26.855954,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231672</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.175152,-26.852279,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231850</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.148097,-26.870753,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192183</name>
+	<Point>
+		<coordinates>-65.165645,-26.856292,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>182492</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.136089,-26.812133,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180082</name>
+	<description>segunda casa</description>
+	<Point>
+		<coordinates>-65.151,-26.814715,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231683</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.230843,-26.862858,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163650</name>
+	<description>del cartel de entrada al barrio octava casa preguntar por el nene Ovejero</description>
+	<Point>
+		<coordinates>-65.166834,-26.889411,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>157683</name>
+	<description>entre dos casas amarillas</description>
+	<Point>
+		<coordinates>-65.160345,-26.954924,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178901</name>
+	<description>casa esquina al frente de la escuela</description>
+	<Point>
+		<coordinates>-65.182532,-26.993137,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192234</name>
+	<description>sobre ruta 9 , casa amarilla frente al cartel que dice  " el chilcal "</description>
+	<Point>
+		<coordinates>-65.155184,-27.041698,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231096</name>
+	<Point>
+		<coordinates>-65.228048,-27.02692,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231889</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.231915,-27.066677,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195575</name>
+	<Point>
+		<coordinates>-64.924682,-27.055056,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

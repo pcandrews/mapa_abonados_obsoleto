@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>193918</name>
+	<description>propia esquina</description>
+	<Point>
+		<coordinates>-65.617748,-27.449154,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198164</name>
+	<description>propia esquina frente d canal</description>
+	<Point>
+		<coordinates>-65.617985,-27.439313,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230999</name>
+	<description>Vicente lopez y planes esquina obispo colombres</description>
+	<Point>
+		<coordinates>-65.60487,-27.344091,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192664</name>
+	<description>3 cuadra</description>
+	<Point>
+		<coordinates>-65.576237,-27.348691,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175636</name>
+	<description>España esquina Martín Miguel d Güemez</description>
+	<Point>
+		<coordinates>-65.588407,-27.347169,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>168542</name>
+	<description>gobernador Luis vernet esquina crucero general Belgrano</description>
+	<Point>
+		<coordinates>-65.598581,-27.361175,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230960</name>
+	<description>atrás d la iglesia 1era casa mano derecha</description>
+	<Point>
+		<coordinates>-65.524317,-27.219633,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230996</name>
+	<description>media cuadra</description>
+	<Point>
+		<coordinates>-65.585573,-27.342712,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

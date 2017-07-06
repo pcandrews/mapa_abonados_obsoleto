@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>231418</name>
+	<description></description>
+	<Point>
+		<coordinates>-64.988012,-26.834976,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230150</name>
+	<description>Referencia: Escuela Julio Cortazar pasaje al lado de tienda Jessi</description>
+	<Point>
+		<coordinates>-64.987639,-26.834299,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194434</name>
+	<description>Entrar por calle donde se encuentra ubicada la Escuela Gallo y girar a la izquierda 30 mts</description>
+	<Point>
+		<coordinates>-65.092715,-26.855631,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199528</name>
+	<description>Casa color rosa en pasaje de entrada a la cancha sobre calle principal</description>
+	<Point>
+		<coordinates>-65.088073,-26.847573,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169093</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.089085,-26.849099,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231317</name>
+	<description>Al final de pasaje paralelo a las vías</description>
+	<Point>
+		<coordinates>-65.090986,-26.841495,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231097</name>
+	<description>Por calle principal sentido sur yendo hacia Luján</description>
+	<Point>
+		<coordinates>-65.094364,-26.845388,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191221</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.098411,-26.836513,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190738</name>
+	<description>Atrás arco Este cancha  quinta el paraíso</description>
+	<Point>
+		<coordinates>-65.094476,-26.839047,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199325</name>
+	<description>Al costado de cancha escuela Santiago Gallo- Luján (centro de masajes)</description>
+	<Point>
+		<coordinates>-65.091482,-26.857772,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194994</name>
+	<description>Calle Mendoza al final pasando por atrás arco norte de cancha local</description>
+	<Point>
+		<coordinates>-65.084852,-26.820213,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180912</name>
+	<description>Atrás de arco sur de cancha local</description>
+	<Point>
+		<coordinates>-65.086059,-26.821064,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169301</name>
+	<description>Por calle central frente gruta Santa Rita</description>
+	<Point>
+		<coordinates>-65.061699,-26.823299,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191406</name>
+	<description>150 mts antes del pozo de agua-tanque-</description>
+	<Point>
+		<coordinates>-65.069837,-26.820066,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199402</name>
+	<description>Entrar por pasaje al lado de tienda Emanuel hacia el norte, al fondo</description>
+	<Point>
+		<coordinates>-65.078931,-26.812769,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185278</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.081745,-26.816136,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

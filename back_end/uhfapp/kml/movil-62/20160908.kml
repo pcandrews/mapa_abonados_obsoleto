@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>231773</name>
+	<description>country Marcos paz</description>
+	<Point>
+		<coordinates>-65.283122,-26.823608,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>191275</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.23911,-26.784752,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>181502</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.24504,-26.837501,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231879</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.278676,-26.806139,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

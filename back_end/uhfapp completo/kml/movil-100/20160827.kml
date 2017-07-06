@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>177066</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.59583904,-27.34291776,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231000</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.57825999,-27.35452962,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>214765</name>
+	<description>pasteleria</description>
+	<Point>
+		<coordinates>-65.30558985,-27.03551532,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>214770</name>
+	<description>casa de la esquina</description>
+	<Point>
+		<coordinates>-65.30408389,-27.01959952,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>214769</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.30421637,-27.02162537,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178384</name>
+	<description>detrás del paseo de la veneración</description>
+	<Point>
+		<coordinates>-65.39786082,-27.05872512,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232004</name>
+	<description>150 mts antes del lomo de burro girar al norte casa de fondo (coco Pacheco)</description>
+	<Point>
+		<coordinates>-65.59958051,-27.18881304,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

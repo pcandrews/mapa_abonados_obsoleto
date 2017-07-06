@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>168912</name>
+	<Point>
+		<coordinates>-65.267678,-26.767775,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185233</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.287984,-26.740334,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164445</name>
+	<Point>
+		<coordinates>-65.181915,-26.790365,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231792</name>
+	<description>Mz  D casa 23</description>
+	<Point>
+		<coordinates>-65.162173,-26.848764,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198986</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.166243,-26.847955,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166874</name>
+	<Point>
+		<coordinates>-65.146123,-26.861308,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>184074</name>
+	<Point>
+		<coordinates>-65.156966,-26.870195,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197374</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.254507,-26.798671,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

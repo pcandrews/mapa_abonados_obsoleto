@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>198943</name>
+	<description>casa del fondo</description>
+	<Point>
+		<coordinates>-65.179145,-26.829986,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193489</name>
+	<description>Basail 428 - entre Balcarce y Perú</description>
+	<Point>
+		<coordinates>-65.174951,-26.850663,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230085</name>
+	<description>Benjamín Villafañe  400</description>
+	<Point>
+		<coordinates>-65.177942,-26.853654,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173180</name>
+	<description>Ultima calle - casa esquina</description>
+	<Point>
+		<coordinates>-65.179125,-26.862447,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198969</name>
+	<description>Pasaje paralelo a calle principal</description>
+	<Point>
+		<coordinates>-65.163115,-26.848197,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230126</name>
+	<Point>
+		<coordinates>-65.15076,-26.854301,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189543</name>
+	<description>Pasar vías sobre calle Balcarce y girar a la izquierda, primera casa(kiosco)</description>
+	<Point>
+		<coordinates>-65.14802,-26.868732,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230138</name>
+	<description>Pasar la vía yendo hacia Los Ralos, luego a la derecha por costado del cerco 300 mts -  casa rosada</description>
+	<Point>
+		<coordinates>-65.126604,-26.85779,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199603</name>
+	<description>Ultima casa antes del ingenio vereda norte</description>
+	<Point>
+		<coordinates>-65.15787,-26.837898,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

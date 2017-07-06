@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>197569</name>
+	<Point>
+		<coordinates>-65.266793,-26.80996,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231213</name>
+	<description>Reinscripto n' 231933</description>
+	<Point>
+		<coordinates>-65.26564,-26.792815,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199066</name>
+	<description>Reinscripto n' 231705</description>
+	<Point>
+		<coordinates>-65.284158,-26.766728,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

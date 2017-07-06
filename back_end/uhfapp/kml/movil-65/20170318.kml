@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>199521</name>
+	<Point>
+		<coordinates>-64.951674,-26.695036,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231362</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.013753,-26.731318,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198671</name>
+	<Point>
+		<coordinates>-65.145537,-26.822325,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231378</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.13103,-26.821406,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>234653</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.126604,-26.81229,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233225</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.122288,-26.81318,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>188279</name>
+	<Point>
+		<coordinates>-65.132738,-26.811102,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198666</name>
+	<description>Reinscripto N- 234251</description>
+	<Point>
+		<coordinates>-65.138601,-26.803124,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231381</name>
+	<Point>
+		<coordinates>-65.149672,-26.808617,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231324</name>
+	<Point>
+		<coordinates>-65.150392,-26.808345,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233031</name>
+	<description>Reinscripto 234150</description>
+	<Point>
+		<coordinates>-65.145824,-26.803812,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232787</name>
+	<description>Reinscripto 234496</description>
+	<Point>
+		<coordinates>-65.14321,-26.805988,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195638</name>
+	<Point>
+		<coordinates>-65.127762,-26.796884,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178418</name>
+	<description>Reinscripto 234486</description>
+	<Point>
+		<coordinates>-65.109371,-26.802479,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>179911</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.087575,-26.815083,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231247</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.088615,-26.816458,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232635</name>
+	<description>Reinscripto 234386</description>
+	<Point>
+		<coordinates>-65.093798,-26.820986,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197748</name>
+	<description>principal frente a galpón, antes de curva</description>
+	<Point>
+		<coordinates>-65.097606,-26.837534,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

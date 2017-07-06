@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>120101</name>
+	<description>primera carga</description>
+	<Point>
+		<coordinates>-65.20807203,-26.83579239,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>032125</name>
+	<description>segundo dato</description>
+	<Point>
+		<coordinates>-65.20819931,-26.83542764,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>152172</name>
+	<description>3ra carga</description>
+	<Point>
+		<coordinates>-65.20819988,-26.83542661,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

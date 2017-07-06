@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Document.kml</name>
+<open>1</open>
+<Style id="exampleStyleDocument">
+<LabelStyle>
+<color>ff0000cc</color>
+</LabelStyle>
+</Style>
+<Placemark>
+	<name>232682</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.218047,-27.057774,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232619</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.217561,-27.058942,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231967</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.22656,-27.063668,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197943</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.235423,-27.071099,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>166501</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.233816,-27.071418,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232613</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.246252,-27.08445,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197123</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.25245,-27.088207,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190006</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.25943,-27.133128,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>188368</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.180064,-26.87766,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>188230</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.18041,-26.879401,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>177575</name>
+	<Point>
+		<coordinates>-65.166751,-26.889424,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193413</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.164846,-26.889842,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163629</name>
+	<Point>
+		<coordinates>-65.163907,-26.890948,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231572</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.166553,-26.897721,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232651</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.165597,-26.898725,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231982</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.167082,-26.898407,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>177393</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.171359,-26.897435,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230120</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.170528,-26.896982,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176379</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.170964,-26.898158,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190486</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.170957,-26.898155,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199804</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.171637,-26.897774,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199078</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.173623,-26.897104,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>171135</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.185196,-26.89708,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230316</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.187434,-26.895763,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185183</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.188376,-26.892421,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169731</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.189031,-26.897164,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>187522</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.188328,-26.897885,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190971</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.192538,-26.895058,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192160</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.194084,-26.89416,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231680</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.193824,-26.889839,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193154</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.193669,-26.889844,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165055</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.194733,-26.884967,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231492</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.196286,-26.888832,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194485</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.196707,-26.890708,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231892</name>
+	<Point>
+		<coordinates>-65.199243,-26.890666,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>188977</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.199812,-26.891355,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198815</name>
+	<Point>
+		<coordinates>-65.199823,-26.891333,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190734</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.199329,-26.891955,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231709</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.196909,-26.892844,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231302</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.194918,-26.892443,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195596</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.198885,-26.900036,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192222</name>
+	<Point>
+		<coordinates>-65.18171,-26.994527,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193458</name>
+	<Point>
+		<coordinates>-65.180539,-26.994319,0</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

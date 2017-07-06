@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>185147</name>
+	<description>aguilares</description>
+	<Point>
+		<coordinates>-65.625561,-27.420736,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230713</name>
+	<description>8/25atras de la gruta</description>
+	<Point>
+		<coordinates>-65.514811,-27.408332,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193932</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.579679,-27.359757,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230929</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.465876,-27.263246,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198234</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.548896,-27.274286,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198099</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.538492,-27.092798,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199993</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.586601,-27.335673,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

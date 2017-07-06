@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Document.kml</name>
+<open>1</open>
+<Style id="exampleStyleDocument">
+<LabelStyle>
+<color>ff0000cc</color>
+</LabelStyle>
+</Style>
+<Placemark>
+	<name>173227</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.521178,-27.418524,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174799</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.49729,-27.420933,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232433</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.585083,-27.352576,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230793</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.588277,-27.351669,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173787</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.603464,-27.363067,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163838</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.596805,-27.345676,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190389</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.580468,-27.348818,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233502</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.608972,-27.34785,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196264</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.605517,-27.361257,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>165738</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.594841,-27.34155,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194189</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.592233,-27.336802,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232310</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.598538,-27.339158,0</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

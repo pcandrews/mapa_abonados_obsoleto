@@ -1,0 +1,70 @@
+Lista Tablas:
+
+abonados
+
+celulares:
+	mac_cel
+	nombre_cel
+	observacion_cel
+
+
+coordenadas_gps
+
+csv_app_relevamiento
+
+direcciones
+
+empleados
+
+empresas
+
+facturas
+
+fotos_instalaciones
+
+instalaciones_servicios:
+	id_inst_serv
+	id_instdr
+	observacion_inst_serv
+	fecha_y_hora_inst_serv
+	rut_arch_orig_inst_serv
+	rut_arch_bu_inst_serv
+
+
+instaladores
+
+kmls_instalaciones
+
+linea_celulares
+
+medios_contacto
+
+orden_trabajo
+
+personas
+
+rel_abonados_direcciones
+
+rel_abonados_facturas
+
+rel_abonados_instalaciones
+
+rel_coordenadas_direcciones
+
+rel_empleados_instaladores
+
+rel_instalaciones_instaladores
+
+rel_instalaciones_servicios_celulares
+	id_inst_serv
+	mac_cel
+	nombre_cel
+
+
+rel_personas_abonados	 
+
+rel_personas_direcciones
+
+rel_personas_empleados
+
+_temp_csv_app_relevamiento

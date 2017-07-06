@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>194241</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.490607,-27.050848,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199914</name>
+	<description>cv</description>
+	<Point>
+		<coordinates>-65.489108,-27.051903,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>183359</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.562878,-27.097014,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>181123</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.562884,-27.097092,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230706</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.53832,-27.096688,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194248</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.537699,-27.096539,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197388</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.538213,-27.098131,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199725</name>
+	<description>retiró</description>
+	<Point>
+		<coordinates>-65.53141,-27.089212,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198376</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.529744,-27.087841,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199986</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.54136,-27.095124,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230332</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.541588,-27.095639,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199793</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.481584,-27.162852,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>186709</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.485649,-27.164856,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196210</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.487548,-27.164238,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>177754</name>
+	<description>retiró</description>
+	<Point>
+		<coordinates>-65.488165,-27.160132,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176785</name>
+	<description>retiró</description>
+	<Point>
+		<coordinates>-65.477175,-27.12193,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194789</name>
+	<description>retiró</description>
+	<Point>
+		<coordinates>-65.456852,-27.117647,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199704</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.468032,-27.124022,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193719</name>
+	<description>retiró</description>
+	<Point>
+		<coordinates>-65.476445,-27.132823,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

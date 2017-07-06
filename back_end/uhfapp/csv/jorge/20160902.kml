@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>182437</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.223789,-26.84464,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231511</name>
+	<description>el us renuncio a la instalación</description>
+	<Point>
+		<coordinates>-65.237192,-26.840755,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196955</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.253496,-26.839732,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196957</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.254525,-26.839618,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197733</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.252955,-26.839711,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>183801</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.254855,-26.828992,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198850</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.265371,-26.829533,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198699</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.265209,-26.830437,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199332</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.267094,-26.827909,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190018</name>
+	<description>no estaba el titular !</description>
+	<Point>
+		<coordinates>-65.264678,-26.845991,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198611</name>
+	<description>no estaba el titular</description>
+	<Point>
+		<coordinates>-65.25358,-26.839711,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198595</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.247849,-26.843834,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180979</name>
+	<Point>
+		<coordinates>-65.245598,-26.836551,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

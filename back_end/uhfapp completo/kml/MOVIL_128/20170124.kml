@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Document.kml</name>
+<open>1</open>
+<Style id="exampleStyleDocument">
+<LabelStyle>
+<color>ff0000cc</color>
+</LabelStyle>
+</Style>
+<Placemark>
+	<name>233634</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.676433,-27.48291,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233630</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.672375,-27.466949,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233655</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.672318,-27.465279,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233618</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.65812765,-27.47560453,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233606</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.65974575,-27.47544202,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>184619</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.57292582,-27.34774042,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>171669</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.57845432,-27.35081899,0</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

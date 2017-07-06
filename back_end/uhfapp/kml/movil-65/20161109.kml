@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>199888</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.150721,-26.809304,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192899</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.138675,-26.81752,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196510</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.132759,-26.811778,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196668</name>
+	<description>French entre Córdoba y Paganelli</description>
+	<Point>
+		<coordinates>-65.145727,-26.803785,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195584</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.143361,-26.806079,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190174</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.150198,-26.807796,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199100</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.13436,-26.812811,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195387</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.13032,-26.812791,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231493</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.131159,-26.810966,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230016</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.134105,-26.825219,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231293</name>
+	<Point>
+		<coordinates>-65.081445,-26.811382,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231666</name>
+	<Point>
+		<coordinates>-65.080035,-26.813927,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231599</name>
+	<Point>
+		<coordinates>-65.082714,-26.818049,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194325</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.097018,-26.821569,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195783</name>
+	<Point>
+		<coordinates>-65.141421,-26.80301,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231322</name>
+	<Point>
+		<coordinates>-65.137691,-26.804441,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192974</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.135887,-26.804211,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198666</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.138735,-26.80316,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>182060</name>
+	<Point>
+		<coordinates>-65.077062,-26.818827,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190886</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.096879,-26.87806,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

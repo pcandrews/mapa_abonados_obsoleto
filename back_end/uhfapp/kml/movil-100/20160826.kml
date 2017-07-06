@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>231745</name>
+	<description>ruta 157, 8 km al sur de bella vista. pasando la entrada de la escuela 700 mts al sur girar al oeste 70 mts; ; ; </description>
+	<Point>
+		<coordinates>-65.32948126,-27.10053631,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231867</name>
+	<description>al lado del supermercado preet singh</description>
+	<Point>
+		<coordinates>-65.34649828,-26.92747944,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231866</name>
+	<description>barrio odontologico</description>
+	<Point>
+		<coordinates>-65.3087165,-26.86495853,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232012</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.25050878,-26.86694105,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231860</name>
+	<description>frente del sector "A"</description>
+	<Point>
+		<coordinates>-65.25645706,-26.85722849,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

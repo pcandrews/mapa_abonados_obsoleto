@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>166967</name>
+	<description>pasando el puente de la autovía de oeste a este.  girar al sur en la próxima entrada 100 mts .luego al este 3 casa a mano izquierda  </description>
+	<Point>
+		<coordinates>-65.40952289,-27.15885737,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

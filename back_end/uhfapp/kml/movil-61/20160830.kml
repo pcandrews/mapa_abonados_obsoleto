@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>656611</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.208272,-26.835457,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231822</name>
+	<description>casa de madera color verde a 30 mts de la iglesia evangelista</description>
+	<Point>
+		<coordinates>-65.222343,-26.855185,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>169686</name>
+	<description>de alem  a la izq. 70 mts</description>
+	<Point>
+		<coordinates>-65.228045,-26.860928,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>182573</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.240804,-26.868259,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>171857</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.190749,-26.853029,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

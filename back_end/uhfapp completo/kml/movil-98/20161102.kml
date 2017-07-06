@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>191142</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.469639,-27.121321,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>179075</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.470311,-27.121431,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230805</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.472752,-27.123307,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>185928</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.466183,-27.117037,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>186090</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.467375,-27.11209,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194287</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.464571,-27.115635,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196239</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.467183,-27.118607,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>187859</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.46438933,-27.12169448,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174393</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.34631696,-27.03175031,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>186180</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.39575036,-27.06163052,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>175812</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.48856885,-27.04922731,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>178299</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.51578845,-27.22514257,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180786</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.56186617,-27.24801572,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>173893</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.54710452,-27.26752732,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>167602</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.56318032,-27.27644426,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193095</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.5796359,-27.3016801,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

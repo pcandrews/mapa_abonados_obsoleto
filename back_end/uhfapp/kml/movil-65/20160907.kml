@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>199063</name>
+	<description>Entrar a la derecha por costado de la vía altura pilar que dice :bienvenidos a barrio Santa Rita, 200 mts</description>
+	<Point>
+		<coordinates>-65.106319,-26.89362,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195812</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.09079,-26.896978,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199176</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.094749,-26.869474,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>181315</name>
+	<description></description>
+	<Point>
+		<coordinates>-64.742152,-26.886574,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193601</name>
+	<description></description>
+	<Point>
+		<coordinates>-64.836199,-26.868315,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196905</name>
+	<description>Atrás del arco  sur de cancha local</description>
+	<Point>
+		<coordinates>-64.952328,-26.896328,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

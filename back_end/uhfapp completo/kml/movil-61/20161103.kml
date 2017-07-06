@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>168273</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.193093,-26.894026,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164622</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.1946,-26.895257,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>193255</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.097215,-26.828457,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231988</name>
+	<description></description>
+	<Point>
+		<coordinates>-64.921048,-27.055712,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189416</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.191003,-26.849223,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>171506</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.180922,-26.844943,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231564</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.187634,-26.852839,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233078</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.162709,-26.829853,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>177571</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.180107,-26.843592,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>195618</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.154129,-26.869533,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163179</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.016967,-26.87543,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233079</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.295821,-26.863755,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>233081</name>
+	<Point>
+		<coordinates>-65.093913,-26.841467,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

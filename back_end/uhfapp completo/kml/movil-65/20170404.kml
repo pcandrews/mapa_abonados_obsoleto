@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>232523</name>
+	<Point>
+		<coordinates>-65.1738,-26.834984,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199823</name>
+	<Point>
+		<coordinates>-65.173757,-26.828957,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194461</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.165215,-26.836084,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230008</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.167504,-26.836111,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199683</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.173617,-26.834017,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>190985</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.173339,-26.828921,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230358</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.17319,-26.82573,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231245</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.167976,-26.82566,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174644</name>
+	<description>Reinscripto 235082</description>
+	<Point>
+		<coordinates>-65.170954,-26.83529,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

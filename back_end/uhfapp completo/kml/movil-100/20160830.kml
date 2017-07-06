@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>232005</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.67802,-27.470232,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>192687</name>
+	<description>pasando el cic  una cuadra al sur casa del fondo sin calle</description>
+	<Point>
+		<coordinates>-65.605718,-27.437139,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232031</name>
+	<description>calle paralela al río. 200mts al oeste de ruta 38; </description>
+	<Point>
+		<coordinates>-65.61402175,-27.42207237,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189347</name>
+	<description>ituzaingo al final mano izquierda</description>
+	<Point>
+		<coordinates>-65.57451464,-27.361246,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>168543</name>
+	<description>entre Joaquín v. gonzalez y Francia. </description>
+	<Point>
+		<coordinates>-65.58509757,-27.35107848,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>171706</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.60361494,-27.34785067,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230999</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.60481788,-27.3440904,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

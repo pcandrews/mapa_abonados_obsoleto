@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>232031</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.61399264,-27.42204559,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>184275</name>
+	<description>al final antes del cic</description>
+	<Point>
+		<coordinates>-65.60616052,-27.43567041,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>187156</name>
+	<description>pasando en puente al sur primera casa </description>
+	<Point>
+		<coordinates>-65.52457766,-27.41554287,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>194154</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.59574962,-27.36234566,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>171781</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.60147324,-27.36209833,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>196130</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.60124602,-27.34079324,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>230917</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.58596982,-27.33882462,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>163818</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.58080743,-27.35313888,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

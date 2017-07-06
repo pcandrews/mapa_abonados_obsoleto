@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>178384</name>
+	<description>8/25</description>
+	<Point>
+		<coordinates>-65.397781,-27.058751,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232013</name>
+	<description>instalación</description>
+	<Point>
+		<coordinates>-65.403784,-27.068728,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232004</name>
+	<description>8/25</description>
+	<Point>
+		<coordinates>-65.599475,-27.188512,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

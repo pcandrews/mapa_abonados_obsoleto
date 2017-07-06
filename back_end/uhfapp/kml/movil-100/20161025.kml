@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>193962</name>
+	<description>retiro</description>
+	<Point>
+		<coordinates>-65.607085,-27.384273,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>199717</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.596644,-27.336675,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

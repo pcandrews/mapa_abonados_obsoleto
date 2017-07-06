@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>209197</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.29505182,-27.03096905,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>214217</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.30379578,-27.0207892,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>181711</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.45468298,-27.05329729,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>176675</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.53806858,-27.08902857,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>168021</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.41877647,-27.1225948,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>189870</name>
+	<description>barrio santa Rita tercera casa a mano izquierda</description>
+	<Point>
+		<coordinates>-65.50562081,-27.1813304,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232007</name>
+	<description>a dos casas de santo angel</description>
+	<Point>
+		<coordinates>-65.49419038,-27.21197868,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>174836</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.55909573,-27.26539061,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

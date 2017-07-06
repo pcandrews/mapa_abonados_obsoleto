@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>196996</name>
+	<description>Domicilio actual Patagonia esquina Pacara</description>
+	<Point>
+		<coordinates>-65.308922,-26.799324,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>197445</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.260578,-26.788564,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231436</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.244254,-26.777427,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198936</name>
+	<description>Entrar por camino  al costado de Escuela Almafuerte-tanque- 600 mts</description>
+	<Point>
+		<coordinates>-65.109937,-26.80644,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>198317</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.48692473,-27.33853199,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>180698</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.43530354,-27.32415341,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232117</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.49805077,-27.31903082,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>232109</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.54705721,-27.2552344,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198346</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.54797091,-27.25944317,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>198113</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.57858636,-27.35200004,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

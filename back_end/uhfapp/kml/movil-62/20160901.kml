@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>188859</name>
+	<description></description>
+	<Point>
+		<coordinates>-65.19818178,-26.86545381,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>168237</name>
+	<description>perez palavecino esq. las heras</description>
+	<Point>
+		<coordinates>-65.21396251,-26.87350782,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>164850</name>
+	<description>corresponde calle entre ríos 4600.</description>
+	<Point>
+		<coordinates>-65.22074064,-26.887885,0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>231824</name>
+	<description>pasaje sin salida, casa colinda con canal.</description>
+	<Point>
+		<coordinates>-65.22426802,-26.8601992,0</coordinates>
+	</Point>
+</Placemark>
+</kml>
