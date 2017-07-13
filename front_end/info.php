@@ -17,7 +17,7 @@
 	
 
 
-	$celulares = $bd->fetch_all("SELECT * FROM celulares");
+	$celulares = $bd->fetch_all("SELECT * FROM celular");
 	/*$instalaciones = $bd->fetch_all("SELECT id_inst_serv, observacion_inst_serv, fecha_y_hora_inst_serv 
 									 FROM instalaciones_servicios");
 	$rel_cel_inst = $bd->fetch_all("SELECT * FROM rel_instalaciones_servicios_celulares");*/
@@ -31,7 +31,7 @@
 
 
 		$res = $bd->query("SELECT COUNT(DISTINCT `id_inst_serv`) 
-						   FROM ccc.rel_instalaciones_servicios_celulares 
+						   FROM ccc.rel_instalacion_servicio_celular 
 						   WHERE mac_cel = '{$celular["mac_cel"]}'");
 
 		$cantidad_instalaciones = $res->fetch_array();
@@ -43,7 +43,7 @@
 
 
 		$ids_inst = $bd->fetch_all("SELECT id_inst_serv 
-								    FROM ccc.rel_instalaciones_servicios_celulares
+								    FROM ccc.rel_instalacion_servicio_celular
 								    WHERE mac_cel = '".$celular['mac_cel']."'");
 
 		foreach ($ids_inst as $id_inst) {
@@ -53,7 +53,7 @@
 			//echo "<br>";
 		
 			$instalaciones = $bd->fetch_all("SELECT observacion_inst_serv, fecha_y_hora_inst_serv 
-									 	 	 FROM ccc.instalaciones_servicios
+									 	 	 FROM ccc.instalacion_servicio
 									 	 	 WHERE id_inst_serv = {$id_inst['id_inst_serv']}
 									 	 	 ORDER BY fecha_y_hora_inst_serv DESC");
 	

@@ -25,7 +25,8 @@
  	require_once("/home/pablo/Proyectos/Web/PFW/mapa_abonados/back_end/php/funciones/funciones.php");
  
  	//Directorios archivos
-	defined('DIR_ORIGEN') ? null : define('DIR_ORIGEN', SITE_ROOT.DS.'mapa_abonados'.DS.'back_end'.DS.'uhfapp'.DS);
+	//defined('DIR_ORIGEN') ? null : define('DIR_ORIGEN', SITE_ROOT.DS.'mapa_abonados'.DS.'back_end'.DS.'uhfapp'.DS);
+	defined('DIR_ORIGEN') ? null : define('DIR_ORIGEN','/home/pablo/uhfapp/');
 	defined('DIR_DESTINO') ? null : define('DIR_DESTINO', SITE_ROOT.DS.'mapa_abonados'.DS.'back_end'.DS.'data'.DS.'backup_uhfapp');
 	
 ?>

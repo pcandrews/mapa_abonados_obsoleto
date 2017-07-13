@@ -39,7 +39,7 @@
 
 		$bd = new BaseDeDatos("ccc");
 		//$celulares = $bd->fetch_all("SELECT DISTINCT mac_cel FROM ccc.celulares");
-		$celulares = $bd->fetch_all("SELECT DISTINCT * FROM ccc.celulares");
+		$celulares = $bd->fetch_all("SELECT DISTINCT * FROM ccc.celular");
 
 		//$celulares = $bd->fetch_all("
 
@@ -55,7 +55,7 @@
 
 				echo "<h2>Cantidad de instalaciones realizadas: </h3>";
 
-				$res = $bd->query("(SELECT COUNT(DISTINCT id_inst_serv) FROM ccc.instalaciones_servicios)");
+				$res = $bd->query("(SELECT COUNT(DISTINCT id_inst_serv) FROM ccc.instalacion_servicio)");
 				$total_instalaciones = $res->fetch_array();
 				echo "<h3>Total: {$total_instalaciones[0]}</h3>";
 
@@ -63,7 +63,7 @@
 
 				foreach ($celulares as $celular) {												
 					$res = $bd->query("SELECT COUNT(DISTINCT `id_inst_serv`) 
-									   FROM ccc.rel_instalaciones_servicios_celulares 
+									   FROM ccc.rel_instalacion_servicio_celular 
 									   WHERE mac_cel = '{$celular["mac_cel"]}'
 									   AND nombre_cel = '{$celular["nombre_cel"]}'");
 
@@ -97,7 +97,7 @@
 
 						foreach ($celulares as $celular) {												
 							$res = $bd->query("SELECT COUNT(DISTINCT `id_inst_serv`) 
-											   FROM ccc.rel_instalaciones_servicios_celulares 
+											   FROM ccc.rel_instalacion_servicio_celular 
 											   WHERE mac_cel = '{$celular["mac_cel"]}'
 											   AND nombre_cel = '{$celular["nombre_cel"]}'");
 
@@ -105,13 +105,13 @@
 							//echo "Cantidad de instalaciones realizadas: {$cantidad_instalaciones[0]}";
 
 							$ids_inst = $bd->fetch_all("SELECT id_inst_serv 
-														FROM ccc.rel_instalaciones_servicios_celulares
+														FROM ccc.rel_instalacion_servicio_celular
 														WHERE mac_cel = '{$celular["mac_cel"]}'
 											   			AND nombre_cel = '{$celular["nombre_cel"]}'");
 
 							foreach ($ids_inst as $id_inst) {							
 								$instalaciones = $bd->fetch_all("SELECT observacion_inst_serv, fecha_y_hora_inst_serv 
-																 FROM ccc.instalaciones_servicios
+																 FROM ccc.instalacion_servicio
 																 WHERE id_inst_serv = {$id_inst['id_inst_serv']}
 																 ORDER BY fecha_y_hora_inst_serv DESC");
 

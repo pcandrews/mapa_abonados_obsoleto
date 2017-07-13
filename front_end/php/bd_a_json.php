@@ -25,7 +25,7 @@
 		$lat = floatval($dato['lat']);
 		$lng = floatval($dato['lng']);
 		$numero_abonado = $dato["numero_abonado"];
-		$res = $bd->query("SELECT rut_arch_orig_foto_inst FROM ccc.fotos_instalaciones WHERE numero_abonado_foto_inst = {$numero_abonado}");
+		$res = $bd->query("SELECT rut_arch_orig_foto_inst FROM ccc.foto_instalacion WHERE numero_abonado_foto_inst = {$numero_abonado}");
 
 		$foto = $res->fetch_array();
 
